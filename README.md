@@ -1,2 +1,2 @@
-### Exercises/Examples from [Beej's Guide to Networking](https://beej.us/guide/bgnet/html/).
+### Exercises/Examples from [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/html/).
 
